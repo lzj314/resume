@@ -30,6 +30,7 @@
 #### 立明堂国学院（进行中）       
 ##### 项目描述：该项目是一个线上视频教育WebApp。
 ##### 测试网站部分功能演示：http://dev.yiweixx.com/#/home;
+[**项目截图**](http://i2.bvimg.com/605680/4cc42aaad9b4522c.png)
 ##### 项目职责：
 1．主要负责实现单页面(SPA)布局和效果；
 2．利用H5/CSS/Flex布局,进行整个网页的排版布局；
@@ -41,14 +42,18 @@
 ##### 项目描述：以lol为主题的响应式网页，canvas小游戏。
 ##### 项目职责 
 使用Bootstrap，jQuery框架和类库，运用媒体查询开发响应式网页；
+[**项目截图**](http://i2.bvimg.com/605680/188a9c2e0d1f4a7d.png)
 使用JavaScript，Canvas，Ajax完成一个小游戏 （一点小爱好）。
+[**项目截图**](http://i2.bvimg.com/605680/f4f15d9e8cbbf085.png)
 源码地址：https://lzj314.github.io/demos/lol/lol.html；
 https://github.com/lzj314/FlyBird
 
 #### QQ浏览器；天气预报 
 ##### 项目描述：
 使用H5，CSS3动画，jQuery类库，完成qq浏览器网页开发。
+[**项目截图**](http://i1.bvimg.com/605680/cea6a8be04634f29.png)
 运用jQuery，H5，CSS3，Flex布局完成了实时天气预报页面布局，使用jsonp跨域获取后台数据实时更新天气，自动定位。
+[**项目截图**](http://i1.bvimg.com/605680/f857101a285c6eda.png)
 源码地址：https://lzj314.github.io/qq/index.html；
 https://github.com/lzj314/demos/tree/master/weather
 
